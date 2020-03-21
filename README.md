@@ -35,10 +35,10 @@ Determine for which output vectors the linearized system is observable.
 
 F) Obtain your "best" Luenberger observer for each one of the output vectors for which the system is observable and simulate its response to initial conditions and unit step input. The simulation should be done for the observer applied to both the linearized system and the original nonlinear system.
 
-G) Design an output feedback controller for your choice of the "smallest" output vector. Use the LQG method and apply the resulting output feedback controller to the original nonlinear system. Obtain your best design and
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">illustrate its performance in simulation. How would you reconfigure your controller to asymptotically track a constant reference on x ? Will your design reject constant force disturbances applied on the cart ?
+G) Design an output feedback controller for your choice of the "smallest" output vector. Use the LQG method and apply the resulting output feedback controller to the original nonlinear system. Obtain your best design and illustrate its performance in simulation. How would you reconfigure your controller to asymptotically track a constant reference on x ? Will your design reject constant force disturbances applied on the cart ?
 
 ## Outputs
+
 <img align="left" width="400" height="400" src="https://github.com/AmanVirmani/LQR-and-LQG-controller/blob/master/C1_linear.jpg">
 <img align="right" width="400" height="400" src="https://github.com/AmanVirmani/LQR-and-LQG-controller/blob/master/C1_non_linear.jpg">
 <img align="left" width="400" height="400" src="https://github.com/AmanVirmani/LQR-and-LQG-controller/blob/master/C3_linear.jpg">
