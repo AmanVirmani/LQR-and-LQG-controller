@@ -10,7 +10,7 @@ the system. There are two loads suspended from cables attached to the crane. The
 have mass m1 and m2, and the lengths of the cables are l1 and l2, respectively.
 
 <p align="center">
-<img src="https://www.overleaf.com/project/5df7e81f36a5a800018c85a5/file/5df7fbea36a5a800018ca06a">
+<img src="https://github.com/AmanVirmani/LQR-and-LQG-controller/blob/master/crane.png">
 </p>
 Figure 1: System Under Consideration
 
