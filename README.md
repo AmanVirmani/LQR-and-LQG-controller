@@ -39,8 +39,8 @@ G) Design an output feedback controller for your choice of the "smallest" output
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">illustrate its performance in simulation. How would you reconfigure your controller to asymptotically track a constant reference on x ? Will your design reject constant force disturbances applied on the cart ?
 
 ## Outputs
-<img align="left" width="100" height="100" src="https://github.com/AmanVirmani/LQR-and-LQG-controller/blob/master/C1_linear.jpg">
-<img align="right" width="100" height="100" src="https://github.com/AmanVirmani/LQR-and-LQG-controller/blob/master/C1_non_linear.jpg">
+<img align="left" src="https://github.com/AmanVirmani/LQR-and-LQG-controller/blob/master/C1_linear.jpg">
+<img align="right" src="https://github.com/AmanVirmani/LQR-and-LQG-controller/blob/master/C1_non_linear.jpg">
 <img align="left" width="100" height="100" src="https://github.com/AmanVirmani/LQR-and-LQG-controller/blob/master/C3_linear.jpg">
 <img align="right" width="100" height="100" src="https://github.com/AmanVirmani/LQR-and-LQG-controller/blob/master/C3_non_linear.jpg">
 <img align="left" width="100" height="100" src="https://github.com/AmanVirmani/LQR-and-LQG-controller/blob/master/C4_linear.jpg">
